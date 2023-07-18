@@ -1,0 +1,14 @@
+{
+    "@jupyterlite/webrtc-docprovider:plugin": {
+      "disabled": false,
+      "room": "default",
+      "roomPrefix": "cs5483",
+      "signalingUrls": [
+        "wss://y-webrtc-signaling-eu.herokuapp.com",
+        "wss://y-webrtc-signaling-us.herokuapp.com",
+        "wss://signaling.yjs.dev"
+      ],
+      "usercolor": "f57c00",
+      "username": "Anonymous User"
+    }
+}

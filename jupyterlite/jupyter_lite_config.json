@@ -1,0 +1,14 @@
+{
+    "LiteBuildConfig": {
+        "extra_ignore_contents": [
+            "/_*",
+            "/jupyterlite",
+            "/jupyterbook",
+            "/dist",
+            "/.built_*",
+            "/.devcontainer",
+            "/.ipynb_checkpoints",
+            "/README.md"
+        ]
+    }
+}
